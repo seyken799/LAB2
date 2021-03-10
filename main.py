@@ -42,8 +42,6 @@ else:
     print("falsz")
 
 #zad7
-lista = [3, 5, 9, 2, 2.1, 3.6, 1.9, 4.4]
-for i in
 
 #zad8
 lista2 = []
